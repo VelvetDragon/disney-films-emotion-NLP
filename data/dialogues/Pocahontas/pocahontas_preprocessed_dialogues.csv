@@ -1,0 +1,921 @@
+Film Title,Character,Gender,Race/Ethnicity,Culture,Role,Marginalized,POC,Dialogue,Cleaned Dialogue
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,That’s right. I’m not about to let you boys have all the fun.,That is right. I am not about to let you boys have all the fun.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Reef the topsails!,Reef the topsails!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Steady on the course. It’s all right, Thomas. We’ll get her tied off.","Steady on the course. It is all right, Thomas. We will get her tied off."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Thomas, watch out!","Thomas, watch out!"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Pull the pin!,Pull the pin!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Hang on, Thomas. I’ve got you.","Hang on, Thomas. I have got you."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Well, that was refreshing.","Well, that was refreshing."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Of course. You’d all do the same for me.,Of course. You would all do the same for me.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Trouble on deck?,Trouble on deck?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Thomas fell overboard, sir.","Thomas fell overboard, sir."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Thank heavens he’s been successfully retrieved. Well done, Smith.","Thank heavens he is been successfully retrieved. Well done, Smith."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Thank you, sir.","Thank you, sir."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Don’t lose heart, men. It won’t be long before we reach the New World, and remember what awaits us there: freedom—","Do not lose heart, men. It will not be long before we reach the New World, and remember what awaits us there: freedom—"
+Pocahontas,Percy,Male,Animal,English,Supporting,False,False,[Bark.],
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Prosperity—,Prosperity—
+Pocahontas,Percy,Male,Animal,English,Supporting,False,False,[Bark bark.],
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"The adventure of our lives. You are the finest crew England has to offer and nothing, not wind nor rain nor a thousand bloodthirsty savages shall stand in our way. Carry on men!","The adventure of our lives. You are the finest crew England has to offer and nothing, not wind nor rain nor a thousand bloodthirsty savages shall stand in our way. Carry on men!"
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,A stirring oration sir. I’m sure the men were most exhilarated.,A stirring oration sir. I am sure the men were most exhilarated.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Let us hope so. I’ll need those witless peasants to dig up my gold, won’t I?","Let us hope so. I will need those witless peasants to dig up my gold, will not I?"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"You just worry about that fortune of yours, Thomas. Leave the savages to me.","You just worry about that fortune of yours, Thomas. Leave the savages to me."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Or maybe two or three,Or maybe two or three
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Like all the others, I suppose. I’ve seen hundreds of New Worlds, Thomas. What could possibly be different about this one?","Like all the others, I suppose. I have seen hundreds of New Worlds, Thomas. What could possibly be different about this one?"
+Pocahontas,Kekata,Male,Native American,Powhatan,Supporting,True,True,Ka-ma wingapo Powhatan.,Ka-ma wingapo Powhatan.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Ay-man-ay-cho, Kekata. It’s good to be home. Chesk-cham-ay! The Massawomecks are defeated! With the help of our brothers, our villages are safe again!","Ay-man-ay-cho, Kekata. It is good to be home. Chesk-cham-ay! The Massawomecks are defeated! With the help of our brothers, our villages are safe again!"
+Pocahontas,Kekata,Male,Native American,Powhatan,Supporting,True,True,Your return has brought much joy to the village. Look at all the smiling faces.,Your return has brought much joy to the village. Look at all the smiling faces.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Yes, but there is one smiling face I don’t see. Where is my daughter?","Yes, but there is one smiling face I do not see. Where is my daughter?"
+Pocahontas,Kekata,Male,Native American,Powhatan,Supporting,True,True,You know Pocahontas. She has her mother’s spirit. She goes wherever the wind takes her.,You know Pocahontas. She has her mother’s spirit. She goes wherever the wind takes her.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Pocahontas! Your father’s back! Come down here!,Pocahontas! Your father’s back! Come down here!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"He’s back, Flit! Come on, Meeko.","He is back, Flit! Come on, Meeko."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"No, not that… way.","No, not that... way."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Show-off. Pocahontas? Pocahontas? Are you all right? Well, you better be all right because I’m not coming in after you…! [Coughs.] Don’t you think we’re getting a little old for these games?","Show-off. Pocahontas? Pocahontas? Are you all right? Well, you better be all right because I am not coming in after you...!  Do not you think we are getting a little old for these games?"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Help me turn this thing over.,Help me turn this thing over.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,What were you doing up there?,What were you doing up there?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Thinking. Meeko!,Thinking. Meeko!
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"About the dream again? Oh, have you figured it out yet?","About the dream again? Oh, have you figured it out yet?"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"I know it means something, I just don’t know what.","I know it means something, I just do not know what."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,You should ask your father about it.,You should ask your father about it.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Maybe I should. Come on, Flit. Quit playing around, we have to get back.","Maybe I should. Come on, Flit. Quit playing around, we have to get back."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"…faced a determined enemy. The battle lasted from the rising of the sun until the evening shadows fell. Our warriors fought with courage, but none as bravely as Kocoum. He attacked with the fierce strength of the bear. He has proven himself to be the greatest…","...faced a determined enemy. The battle lasted from the rising of the sun until the evening shadows fell. Our warriors fought with courage, but none as bravely as Kocoum. He attacked with the fierce strength of the bear. He has proven himself to be the greatest..."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Oh, he’s so handsome.","Oh, he is so handsome."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I especially love his smile.,I especially love his smile.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,… destroying every enemy in his path. Tonight we will feast in his honor.,... destroying every enemy in his path. Tonight we will feast in his honor.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,My daughter.,My daughter.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Wingapo, father.","Wingapo, father."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Seeing you gives me great joy.,Seeing you gives me great joy.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I am so glad you’ve come home safely.,I am so glad you have come home safely.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Come with me, we have much to talk about. I want to hear everything you’ve been doing.","Come with me, we have much to talk about. I want to hear everything you have been doing."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Father, for many nights now I’ve been having a very strange dream. I think it’s telling me something’s about to happen, something exciting.","Father, for many nights now I have been having a very strange dream. I think it is telling me something is about to happen, something exciting."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Yes, something exciting is about to happen.","Yes, something exciting is about to happen."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Really, what is it?","Really, what is it?"
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Kocoum has asked to seek your hand in marriage.,Kocoum has asked to seek your hand in marriage.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Marry Kocoum?,Marry Kocoum?
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,I told him it would make my heart soar.,I told him it would make my heart soar.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,But he’s so… serious.,But he is so... serious.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"My daughter, Kocoum will make a fine husband. He is loyal and strong and will build you a good house with sturdy walls. With him you will be safe from harm.","My daughter, Kocoum will make a fine husband. He is loyal and strong and will build you a good house with sturdy walls. With him you will be safe from harm."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Father, I think my dream is pointing me down another path.","Father, I think my dream is pointing me down another path."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,This is the right path for you.,This is the right path for you.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,But why can’t I choose—,But why cannot I choose—
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Pocahontas, come with me. You are the daughter of the chief. It is time to take your place among our people. Even the wild mountain stream must someday join the big river.","Pocahontas, come with me. You are the daughter of the chief. It is time to take your place among our people. Even the wild mountain stream must someday join the big river."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,He wants me to be steady… Like the river. But it’s not steady at all.,He wants me to be steady... Like the river. But it is not steady at all.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Is that my Pocahontas?,Is that my Pocahontas?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Grandmother Willow, I need to talk to you.","Grandmother Willow, I need to talk to you."
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Good morning, child. I was hoping you’d visit today. Why, your mother’s necklace!","Good morning, child. I was hoping you would visit today. Why, your mother’s necklace!"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,That’s what I wanted to talk to you about. My father wants me to marry Kocoum.,That is what I wanted to talk to you about. My father wants me to marry Kocoum.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Kocoum? But he’s so serious.,Kocoum? But he is so serious.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I know. My father thinks it’s the right path for me. But lately I’ve been having this dream and I think it’s—,I know. My father thinks it is the right path for me. But lately I have been having this dream and I think it is—
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Oh, a dream! Let’s hear all about it!","Oh, a dream! Let us hear all about it!"
+Pocahontas,Animals,Unknown,Animal,Nature,Supporting,False,False,[Chatter.],
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Quiet! Quiet!,Quiet! Quiet!
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Now, child, you were saying.","Now, child, you were saying."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Well, I’m running through the woods and then right there in front of me is an arrow. As I look at it, it starts to spin.","Well, I am running through the woods and then right there in front of me is an arrow. As I look at it, it starts to spin."
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,A spinning arrow? How unusual.,A spinning arrow? How unusual.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Yes! It spins faster and faster and faster until suddenly it stops.,Yes! It spins faster and faster and faster until suddenly it stops.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Hmm. Well, seems to me this spinning arrow is pointing you down your path.","Hmm. Well, seems to me this spinning arrow is pointing you down your path."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"But Grandmother Willow, what is my path? How am I ever going to find it?","But Grandmother Willow, what is my path? How am I ever going to find it?"
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,[Chuckle.] Your mother asked me the very same question.,Your mother asked me the very same question.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,She did? What did you tell her?,She did? What did you tell her?
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"I told her to listen. All around you are spirits, child. They live in the earth, the water, the sky. If you listen, they will guide you.","I told her to listen. All around you are spirits, child. They live in the earth, the water, the sky. If you listen, they will guide you."
+Pocahontas,Wind Spirits,Unknown,Spiritual Entity,Nature/Spiritual,Supporting,False,False,Ay ay ay na ay ay na,Ay ay ay na ay ay na
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I hear the wind.,I hear the wind.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Yes, what is it telling you?","Yes, what is it telling you?"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I don’t understand.,I do not understand.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Que que na-to-ra,Que que na-to-ra
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,It’s saying something’s coming! Strange clouds?,It is saying something is coming! Strange clouds?
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Listen with your heart,Listen with your heart
+Pocahontas,Wind Spirits,Unknown,Spiritual Entity,Nature/Spiritual,Supporting,False,False,You will understand,You will understand
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,What do you see?,What do you see?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Clouds. Strange clouds.,Clouds. Strange clouds.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Look at it, Wiggins. An entire New World chock full of gold, just waiting for me.","Look at it, Wiggins. An entire New World chock full of gold, just waiting for me."
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,"And scores of adventures waiting for us, right, Percy? Do you think we’ll meet some savages?","And scores of adventures waiting for us, right, Percy? Do you think we will meet some savages?"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"If we do, we should be sure to give them a proper English greeting.","If we do, we should be sure to give them a proper English greeting."
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,"Oh, gift baskets!","Oh, gift baskets!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,And he came so highly recommended.,And he came so highly recommended.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"It’s perfect, Governor. The water’s deep enough, we can pull right up to shore. Hey there, Percy.","It is perfect, Governor. The water’s deep enough, we can pull right up to shore. Hey there, Percy."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Very well, then. Give the order.","Very well, then. Give the order."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Already done, sir. I’ve got a crew assembled and they’re ready to go.","Already done, sir. I have got a crew assembled and they are ready to go."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"About the natives, I’m counting on you to make sure those filthy heathens don’t disrupt our mission.","About the natives, I am counting on you to make sure those filthy heathens do not disrupt our mission."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Well, if they’re anything like the savages I’ve fought before, it’s nothing I can’t handle.","Well, if they are anything like the savages I have fought before, it is nothing I cannot handle."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Right. That’ll be all, Smith, there’s a good man.","Right. That will be all, Smith, there is a good man."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"See ya, Percy.","See ya, Percy."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"The men like Smith, don’t they? I’ve never been a popular man.","The men like Smith, do not they? I have never been a popular man."
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,I like you.,I like you.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,And don’t think I don’t know what those backstabbers at court say about me.,And do not think I do not know what those backstabbers at court say about me.
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,"Oh yes, all that talk about you being a pathetic social climber who’s failed at everything he’s—","Oh yes, all that talk about you being a pathetic social climber who is failed at everything he is—"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"I’m very well aware that this is my last chance for glory. But mark my words, Wiggins, when King James see the gold these peasants unearth success will be mine, at last.","I am very well aware that this is my last chance for glory. But mark my words, Wiggins, when King James see the gold these peasants unearth success will be mine, at last."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Come on, men, we didn’t come all this way just to look at it.","Come on, men, we did not come all this way just to look at it."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Getting a better look. [Meeko bumps into him.] Hey! Well, you’re a strange-looking fellow. You hungry? Here you go, it’s a biscuit. It’s food… Well, sort of. You like it, eh? Well, try eating it for four months straight. You got a friend back there? [Flit attacks him.] Hey, what, what, watch out! No… Get that… Look out!","Getting a better look.  Hey! Well, you are a strange-looking fellow. You hungry? Here you go, it is a biscuit. It is food... Well, sort of. You like it, eh? Well, try eating it for four months straight. You got a friend back there?  Hey, what, what, watch out! No... Get that... Look out!"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"All right, all right, I’m leaving.","All right, all right, I am leaving."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"My brothers, we must know more about these visitors. Kekata, what do you see?","My brothers, we must know more about these visitors. Kekata, what do you see?"
+Pocahontas,Kekata,Male,Native American,Powhatan,Supporting,True,True,"[Chanting.] These are not men like us, but strange beasts with bodies that shine like the sun and weapons that spout fire and thunder. They prowl the earth like ravenous wolves consuming everything in their path.","These are not men like us, but strange beasts with bodies that shine like the sun and weapons that spout fire and thunder. They prowl the earth like ravenous wolves consuming everything in their path."
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,Great Powhatan. I will lead our warriors to the river and attack. We will destroy these invaders the way we destroyed the Massawomecks.,Great Powhatan. I will lead our warriors to the river and attack. We will destroy these invaders the way we destroyed the Massawomecks.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Kocoum, in that battle we knew how to fight our enemy, but these pale visitors are strange to us. Take some men to the river to observe them. Let us hope they do not intend to stay.","Kocoum, in that battle we knew how to fight our enemy, but these pale visitors are strange to us. Take some men to the river to observe them. Let us hope they do not intend to stay."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"I hereby claim this land and all its riches in the name of His Majesty King James the first, and do so name this settlement Jamestown.","I hereby claim this land and all its riches in the name of His Majesty King James the first, and do so name this settlement Jamestown."
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,"Bravo! Bravo! Beautifully spoken, sir! Hurry now, Percy. We must be all squeaky clean for the New World. [Exits.]","Bravo! Bravo! Beautifully spoken, sir! Hurry now, Percy. We must be all squeaky clean for the New World."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Captain Smith! It appears I’ve selected the perfect location, eh? Not a savage in sight.","Captain Smith! It appears I have selected the perfect location, eh? Not a savage in sight."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Just because we don’t see them doesn’t mean they’re not out there, sir.","Just because we do not see them does not mean they are not out there, sir."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Well then, perhaps you should venture forth and determine their whereabouts, hmm?","Well then, perhaps you should venture forth and determine their whereabouts, hmm?"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"If there are any Indians out there, I’ll find them.","If there are any Indians out there, I will find them."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Now, gentlemen, to work. You men, get the ship unloaded.","Now, gentlemen, to work. You men, get the ship unloaded."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,You men build the fort. The rest of you… Break out the shovels! It’s time to start digging.,You men build the fort. The rest of you... Break out the shovels! It is time to start digging.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Why, of course! Let’s not forget what the Spanish found when they came to the New World. Gold, mountains of it. Why, for years they’ve been ravaging the New World of its most precious resources but now… It’s our turn.","Why, of course! Let us not forget what the Spanish found when they came to the New World. Gold, mountains of it. Why, for years they have been ravaging the New World of its most precious resources but now... It is our turn."
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,Hey nonny nonny,Hey nonny nonny
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Ooh, how I love it","Ooh, how I love it"
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,Hey nonny nonny,Hey nonny nonny
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Riches for cheap,Riches for cheap
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,Hey nonny nonny,Hey nonny nonny
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,There’ll be heaps of it,There will be heaps of it
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,All of my life I have searched for land like this one,All of my life I have searched for land like this one
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Keep on working, lads","Keep on working, lads"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Mine,Mine
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Don’t be shirking, lads","Do not be shirking, lads"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Beautiful gold,Beautiful gold
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Make the mounds big, boys","Make the mounds big, boys"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,This land we behold,This land we behold
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,This beauty untold,This beauty untold
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,A man can be bold,A man can be bold
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,It all can be sold,It all can be sold
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Is,Is
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Mine,Mine
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Mine,Mine
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"No, wait! Please! Please! Don’t run off. It’s all right, I’m not gonna hurt you. Here, let me help you out of there.","No, wait! Please! Please! Do not run off. It is all right, I am not going to hurt you. Here, let me help you out of there."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Mat-ta-que na-to-rath.,Mat-ta-que na-to-rath.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"You don’t understand a word I’m saying, do you? It’s all right.","You do not understand a word I am saying, do you? It is all right."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Who are you?,Who are you?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Pocahontas.,Pocahontas.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,What? What did you say?,What? What did you say?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,My name is Pocahontas.,My name is Pocahontas.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,I’m John Smith.,I am John Smith.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"That’s it. Keep at it, men. Keep digging. It’s got to be here somewhere.","That is it. Keep at it, men. Keep digging. It is got to be here somewhere."
+Pocahontas,Namontack,Male,Native American,Powhatan,Supporting,True,True,"There’s thirty more of them, down by the ridge.","There is thirty more of them, down by the ridge."
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,That makes more than a hundred.,That makes more than a hundred.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Anything yet?,Anything yet?
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"For king and country, I know, I know, and I share your fatigue. Wiggins! Wiggins!","For king and country, I know, I know, and I share your fatigue. Wiggins! Wiggins!"
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,Coming!,Coming!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Dispose of this.,Dispose of this.
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,"[To Percy.] Who’s a good doggy? Who’s a good doggy? Fetch, boy!","Who is a good doggy? Who is a good doggy? Fetch, boy!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Savages! It’s an ambush, arm yourselves!","Savages! It is an ambush, arm yourselves!"
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,Run!,Run!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Arm yourselves! Make sure every man has a musket! Shoot! [Thomas trips over a log and his rifle goes off accidentally, firing right between Ratcliffe's legs.] Them, you idiot! Where’s that blasted Smith when I need him?","Arm yourselves! Make sure every man has a musket! Shoot!  Them, you idiot! Where is that blasted Smith when I need him?"
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,Namontack!,Namontack!
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,Back to the village!,Back to the village!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,[To Thomas.] And you! Learn to use that thing properly. A man’s not a man unless he knows how to shoot.,And you! Learn to use that thing properly. A man’s not a man unless he knows how to shoot.
+Pocahontas,Kekata,Male,Native American,Powhatan,Supporting,True,True,[Chanting.],
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"These beasts invade our shores, and now this.","These beasts invade our shores, and now this."
+Pocahontas,Kekata,Male,Native American,Powhatan,Supporting,True,True,[Chanting.] This wound is strange to me.,This wound is strange to me.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"We will fight this enemy, but we cannot do it alone. Kocoum, send messengers to every village in our nation. We will call on our brothers to help us fight. [Steps outside the tent.] These White Men are dangerous! No one is to go near them.","We will fight this enemy, but we cannot do it alone. Kocoum, send messengers to every village in our nation. We will call on our brothers to help us fight.  These White Men are dangerous! No one is to go near them."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,It’s called a helmet.,It is called a helmet.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Helmet.,Helmet.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"So, what river is this?","So, what river is this?"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Quiyoughcohannock.,Quiyoughcohannock.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,You have most unusual names here. Chicahominy. Quiyough - Quiyoughcohannock. Pocahontas.,You have most unusual names here. Chicahominy. Quiyough - Quiyoughcohannock. Pocahontas.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"You have the most unusual name, too. John Smith.","You have the most unusual name, too. John Smith."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,[Pulls Meeko out of his bag.] Hey! Is this bottomless pit a friend of yours?,Hey! Is this bottomless pit a friend of yours?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Meeko!,Meeko!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Nothing’s happening.,Nothing’s happening.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"No, no, I need your hand first. It’s how we say hello.","No, no, I need your hand first. It is how we say hello."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,This is how we say hello. Wingapo.,This is how we say hello. Wingapo.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Wingapo.,Wingapo.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,And how we say goodbye. Ana.,And how we say goodbye. Ana.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"I like hello better. [Flit charges at him.] Yeah, I remember you.","I like hello better.  Yeah, I remember you."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Flit just doesn’t like strangers.,Flit just does not like strangers.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"But I’m not a stranger anymore. Hmm, stubborn little fellow, isn’t he?","But I am not a stranger anymore. Hmm, stubborn little fellow, is not he?"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Very stubborn.,Very stubborn.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Hey!,Hey!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Meeko! Come back here!,Meeko! Come back here!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Don’t worry, he can’t hurt it. [Meeko hits it against a rock.] Hey, what are you doing?!","Do not worry, he cannot hurt it.  Hey, what are you doing?!"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Meeko bring that back!,Meeko bring that back!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"No, no, it’s all right. He can keep it. Call it a gift.","No, no, it is all right. He can keep it. Call it a gift."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,What was that?,What was that?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,My compass.,My compass.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Compass?,Compass?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"It tells you how to find your way when you get lost. But it’s all right, I’ll get another one in London.","It tells you how to find your way when you get lost. But it is all right, I will get another one in London."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,London? Is that your village?,London? Is that your village?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Yes, it’s a very big village.","Yes, it is a very big village."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,What’s it like?,What is it like?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Well, it’s got streets filled with carriages and bridges over the rivers and buildings as tall as trees.","Well, it is got streets filled with carriages and bridges over the rivers and buildings as tall as trees."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I’d like to see those things.,I would like to see those things.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,You will.,You will.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,How?,How?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,We’re going to build them here. We’ll show your people how to use this land properly. How to make the most of it.,We are going to build them here. We will show your people how to use this land properly. How to make the most of it.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Make the most of it?,Make the most of it?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Yes, we’ll build roads and decent houses and—","Yes, we will build roads and decent houses and—"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Our houses are fine.,Our houses are fine.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"You think that, only because you don’t know any better. [Pocahontas starts to leave.] Wait a minute, don’t take it that – [Flit attacks him.] Hey, hey, wait! Wait, wait! There’s so much we can teach you. We’ve improved the lives of savages all over the world.","You think that, only because you do not know any better.  Wait a minute, do not take it that –  Hey, hey, wait! Wait, wait! There is so much we can teach you. We have improved the lives of savages all over the world."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Savages?!,Savages?!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Uh, not that you’re a savage.","Uh, not that you are a savage."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Just my people.,Just my people.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"No, listen, that’s not what I meant. Let me explain—","No, listen, that is not what I meant. Let me explain—"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Let go!,Let go!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"No, I’m not letting you leave. Look, don’t do this. ‘Savage’ is just a word. You know. A term for… people who are uncivilized.","No, I am not letting you leave. Look, do not do this. ‘Savage’ is just a word. You know. A term for... people who are uncivilized."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Like me.,Like me.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Well, when I say uncivilized, what I mean is – is…","Well, when I say uncivilized, what I mean is – is..."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"What you mean is, not like you.","What you mean is, not like you."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,What is it?,What is it?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,The drums. They mean trouble. I shouldn’t be here.,The drums. They mean trouble. I should not be here.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,I want to see you again.,I want to see you again.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I can’t.,I cannot.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Please, don’t leave.","Please, do not leave."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I’m sorry. I have to go.,I am sorry. I have to go.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,What?,What?
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"I’m doomed! I should be wallowing in riches right now and I haven’t seen so much as a speck! It’s got to be here somewhere. Where could it be? I’ve mined the forests and the hills and swamps, and nothing! Why can’t I find it? What am I overlooking?","I am doomed! I should be wallowing in riches right now and I have not seen so much as a speck! It is got to be here somewhere. Where could it be? I have mined the forests and the hills and swamps, and nothing! Why cannot I find it? What am I overlooking?"
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,Ah!,Ah!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,[Gasp.],
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,I… I… I made it myself.,I... I... I made it myself.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Take that silly… Of course, the Indians! Wiggins, why do you think those insolent heathens attacked us?","Take that silly... Of course, the Indians! Wiggins, why do you think those insolent heathens attacked us?"
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,Because we invaded their land and cut down their trees and dug up their earth?,Because we invaded their land and cut down their trees and dug up their earth?
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"It’s the gold! They have it and they don’t want us to take it from them. Well, I’ll just have to take it by force then, won’t I?","It is the gold! They have it and they do not want us to take it from them. Well, I will just have to take it by force then, will not I?"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,You there! Where’s Captain Smith?,You there! Where is Captain Smith?
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Well, then go get him, for heaven’s sake!","Well, then go get him, for heaven’s sake!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"That’s what guns are for, now arm yourselves and get moving!","That is what guns are for, now arm yourselves and get moving!"
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Pocahontas! You should be inside the village.,Pocahontas! You should be inside the village.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,We’ll be all right.,We will be all right.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,We’re gathering food for when the warriors arrive.,We are gathering food for when the warriors arrive.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Don’t go far. Now is not the time to be running off.,Do not go far. Now is not the time to be running off.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Yes, father.","Yes, father."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"When I see you wear that necklace, you look just like your mother.","When I see you wear that necklace, you look just like your mother."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I miss her.,I miss her.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"But she is still with us. Whenever the wind blows through the trees, I feel her presence. Our people looked to her for wisdom and strength. Someday, they will look to you as well.","But she is still with us. Whenever the wind blows through the trees, I feel her presence. Our people looked to her for wisdom and strength. Someday, they will look to you as well."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I would be honored by that.,I would be honored by that.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,You shouldn’t be out here alone. I’ll send for Kocoum. [Exits.],You should not be out here alone. I will send for Kocoum.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,What?,What?
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,You’re hiding something.,You are hiding something.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I’m not hiding anything.,I am not hiding anything.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Pocahontas, you can tell me, I promise I won’t tell anyone —","Pocahontas, you can tell me, I promise I will not tell anyone —"
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"[Gasp.] Pocahontas, look! It’s one of them! I’m going to get— [Pocahontas covers her mouth.]","Pocahontas, look! It is one of them! I am going to get—"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,What are you doing here?,What are you doing here?
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Mmm?!,Mmm?!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,I had to see you again.,I had to see you again.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Mmm!,Mmm!
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,Pocahontas!,Pocahontas!
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Mmm!,Mmm!
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,Pocahontas!,Pocahontas!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Please, don’t say anything. Quick, this way.","Please, do not say anything. Quick, this way."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,But—,But—
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,"Nakoma, where is Pocahontas?","Nakoma, where is Pocahontas?"
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,I… I haven’t seen her.,I... I have not seen her.
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,Pocahontas can’t keep running off. It’s dangerous out there. Tell her that. She listens to you.,Pocahontas cannot keep running off. It is dangerous out there. Tell her that. She listens to you.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Huh, sure she does.","Huh, sure she does."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"This place is incredible! And to think, we came all this way just to dig it up for gold.","This place is incredible! And to think, we came all this way just to dig it up for gold."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Gold?,Gold?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Hey, Meeko.","Hey, Meeko."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,What’s gold?,What is gold?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"You know, it’s… It’s yellow, comes out of the ground, it’s really valuable.","You know, it is... It is yellow, comes out of the ground, it is really valuable."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Oh, here, we’ve lots of it. [Takes out an ear of corn.] Gold.","Oh, here, we have lots of it.  Gold."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,No… Gold is this. [Takes out a gold coin.],No... Gold is this.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Hmm, there’s nothing like that around here.","Hmm, there is nothing like that around here."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,No gold?,No gold?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Not that I’ve seen.,Not that I have seen.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,[Laughs.] All this way for nothing. Those boys are in for a big surprise.,All this way for nothing. Those boys are in for a big surprise.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Will they leave?,Will they leave?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Some of them might.,Some of them might.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Will you go home?,Will you go home?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Well, it’s not like I have much of a home to go back to. I’ve never really belonged anywhere.","Well, it is not like I have much of a home to go back to. I have never really belonged anywhere."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,You could belong here.,You could belong here.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,What was that?,What was that?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Did you see something?,Did you see something?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"No… No, I just, uh… I… I didn’t see anything. Did I?","No... No, I just, uh... I... I did not see anything. Did I?"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Look again.,Look again.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Let it break upon you,Let it break upon you
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Pocahontas, the tree is talking to me.","Pocahontas, the tree is talking to me."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Then you should talk back.,Then you should talk back.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Don’t be frightened, young man. My bark is worse than my bite.","Do not be frightened, young man. My bark is worse than my bite."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Say something.,Say something.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,What do you say to a tree?,What do you say to a tree?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Anything you want.,Anything you want.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"So, uh…","So, uh..."
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Come closer, John Smith. He has a good soul. And he’s handsome, too.","Come closer, John Smith. He has a good soul. And he is handsome, too."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Oh, I like her.","Oh, I like her."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I knew you would.,I knew you would.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,We can’t let them see us.,We cannot let them see us.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Quick, over here.","Quick, over here."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,I’m glad you’re on our side.,I am glad you are on our side.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,There’s still some snap in these old vines.,There is still some snap in these old vines.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,I better get back before they send the whole camp out after me.,I better get back before they send the whole camp out after me.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,When will I see you again?,When will I see you again?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Meet me tonight, right here. [Exits.]","Meet me tonight, right here."
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Well, I haven’t had this much excitement in 200 years.","Well, I have not had this much excitement in 200 years."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"What am I doing? I shouldn’t be seeing him again. I mean, I want to see him again—","What am I doing? I should not be seeing him again. I mean, I want to see him again—"
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Who wouldn’t? I want to see him again.,Who would not? I want to see him again.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"But still, something inside is telling me it’s the right thing.","But still, something inside is telling me it is the right thing."
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Perhaps it’s your dream.,Perhaps it is your dream.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,My dream? Do you think he’s the one the spinning arrow was pointing to?,My dream? Do you think he is the one the spinning arrow was pointing to?
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Mm-hmm!,Mm-hmm!
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Pocahontas, are you crazy? What were you doing with that—","Pocahontas, are you crazy? What were you doing with that—"
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,There you are!,There you are!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Kocoum!,Kocoum!
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,Look at them. Now we have enough warriors to destroy those white demons!,Look at them. Now we have enough warriors to destroy those white demons!
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Now that we are joined by our brothers, we will defeat this enemy.","Now that we are joined by our brothers, we will defeat this enemy."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Father, I need to speak with you.","Father, I need to speak with you."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Not now, my daughter. The council is gathering.","Not now, my daughter. The council is gathering."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,We don’t have to fight them! There must be a better way.,We do not have to fight them! There must be a better way.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Sometimes our paths are chosen for us.,Sometimes our paths are chosen for us.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,But maybe we should try talking to them.,But maybe we should try talking to them.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,They do not want to talk.,They do not want to talk.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"But if one of them did want to talk, you would listen to him, wouldn’t you?","But if one of them did want to talk, you would listen to him, would not you?"
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Pocahontas—,Pocahontas—
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Wouldn’t you?,Would not you?
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Of course I would. But it is not that simple. Nothing is simple anymore.,Of course I would. But it is not that simple. Nothing is simple anymore.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Easy, Thomas. It’s me.","Easy, Thomas. It is me."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Not aiming like that, you couldn’t. Keep both eyes open when you shoot. You’ll see twice as well.","Not aiming like that, you could not. Keep both eyes open when you shoot. You will see twice as well."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Smith! Where have you been?,Smith! Where have you been?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"I was out scouting the terrain, sir.","I was out scouting the terrain, sir."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Excellent. Then you must know the Indians’ whereabouts. We’ll need that information for the battle.,Excellent. Then you must know the Indians’ whereabouts. We will need that information for the battle.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,What battle?,What battle?
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,We will eliminate these savages once and for all.,We will eliminate these savages once and for all.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,No! You can’t do that!,No! You cannot do that!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Look, we don’t have to fight them.","Look, we do not have to fight them."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,I met one of them.,I met one of them.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"They’re not savages, they can help us. They know the land, they know how to navigate the rivers. And, look! It’s food!","They are not savages, they can help us. They know the land, they know how to navigate the rivers. And, look! It is food!"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"It’s better than hardtack and gruel, that’s for sure.","It is better than hardtack and gruel, that is for sure."
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,I like gruel.,I like gruel.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"They don’t want to feed us, you ninnies! They want to kill us! All of us! They’ve got our gold, and they’ll do anything to keep it!","They do not want to feed us, you ninnies! They want to kill us! All of us! They have got our gold, and they will do anything to keep it!"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,But there is no gold!,But there is no gold!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,And I suppose your little Indian friend told you this.,And I suppose your little Indian friend told you this.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Yes.,Yes.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Lies! Lies, all of it! Murderous thieves, there’s no room for their kind in civilized society.","Lies! Lies, all of it! Murderous thieves, there is no room for their kind in civilized society."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,But this is their land!,But this is their land!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"This is my land! I make the laws here. And I say anyone so much as looks at an Indian without killing him on sight, will be tried for treason and hanged.","This is my land! I make the laws here. And I say anyone so much as looks at an Indian without killing him on sight, will be tried for treason and hanged."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Pocahontas!,Pocahontas!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Nakoma!,Nakoma!
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Don’t go out there. I lied for you once, don’t ask me to do it again.","Do not go out there. I lied for you once, do not ask me to do it again."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I have to do this.,I have to do this.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,He’s one of them!,He is one of them!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,You don’t know him.,You do not know him.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"You go out there, you’ll be turning your back on your own people.","You go out there, you will be turning your back on your own people."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I’m trying to help my people.,I am trying to help my people.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Pocahontas, please… You’re my best friend, I don’t want you to get hurt.","Pocahontas, please... You are my best friend, I do not want you to get hurt."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"I won’t, I know what I’m doing.","I will not, I know what I am doing."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Pocahontas, no!","Pocahontas, no!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Follow him.,Follow him.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,I want to know where he’s sneaking off to.,I want to know where he is sneaking off to.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"And if you happen to see any Indians, shoot them. Oh, and Thomas? You’ve been a slipshod sailor and a poor excuse for a soldier. Don’t disappoint me again.","And if you happen to see any Indians, shoot them. Oh, and Thomas? You have been a slipshod sailor and a poor excuse for a soldier. Do not disappoint me again."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Kocoum?,Kocoum?
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,What is it?,What is it?
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,It’s Pocahontas.,It is Pocahontas.
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,What’s wrong? Is she all right?,What is wrong? Is she all right?
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,I think she’s in trouble.,I think she is in trouble.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"The earth is trembling, child. What’s happened?","The earth is trembling, child. What is happened?"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,The warriors are here!,The warriors are here!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Pocahontas!,Pocahontas!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,John!,John!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Listen to me. My men are planning to attack your people. You’ve got to warn them.,Listen to me. My men are planning to attack your people. You have got to warn them.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Maybe it’s not too late to stop this. You have to come with me and talk to my father.,Maybe it is not too late to stop this. You have to come with me and talk to my father.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Pocahontas, talking isn’t going to do any good. I already tried talking to my men but everything about this land has them spooked.","Pocahontas, talking is not going to do any good. I already tried talking to my men but everything about this land has them spooked."
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,That’s the strangest creature I’ve ever seen!,That is the strangest creature I have ever seen!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Percy! Easy, Percy, come here!","Percy! Easy, Percy, come here!"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Meeko, come back!","Meeko, come back!"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"You see what I mean? Once two sides want to fight, nothing can stop them.","You see what I mean? Once two sides want to fight, nothing can stop them."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Come, come here!","Come, come here!"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"It’s all right, he’s a friend. Bad, bad dog! Sit!","It is all right, he is a friend. Bad, bad dog! Sit!"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,What are you doing? Meeko!,What are you doing? Meeko!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Percy, get back here! Stop that!","Percy, get back here! Stop that!"
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"All right, that’s enough! It’s enough to make your sap boil. Now then, there’s something I want to show you. Look. [Touches a vine to the river surface.]","All right, that is enough! It is enough to make your sap boil. Now then, there is something I want to show you. Look."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,The ripples.,The ripples.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,What about them?,What about them?
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"So small at first, then look how they grow. But someone has to start them.","So small at first, then look how they grow. But someone has to start them."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,They’re not going to listen to us.,They are not going to listen to us.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Young man, sometimes the right path is not the easiest one. Don’t you see, only when the fighting stops can you can be together.","Young man, sometimes the right path is not the easiest one. Do not you see, only when the fighting stops can you can be together."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"All right, let’s go talk to your father.","All right, let us go talk to your father."
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,[War cry.],
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,[Gasp.],
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Kocoum, no! Kocoum! Leave him alone! [Gasps.] Kocoum, stop!","Kocoum, no! Kocoum! Leave him alone!  Kocoum, stop!"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,[Gasp.],
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Thomas!,Thomas!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,You killed him!,You killed him!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Get away from him!,Get away from him!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Pocahontas, it won’t help! He was only—","Pocahontas, it will not help! He was only—"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,He killed him!,He killed him!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Thomas, get out of here. Get out of here!","Thomas, get out of here. Get out of here!"
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Who did this?,Who did this?
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Your weapons are strong. But now our anger is stronger. At sunrise he will be the first to die!,Your weapons are strong. But now our anger is stronger. At sunrise he will be the first to die!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,But father!,But father!
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,I told you to stay in the village. You disobeyed me. You have shamed your father!,I told you to stay in the village. You disobeyed me. You have shamed your father!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I was only trying to help.,I was only trying to help.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Because of your foolishness, Kocoum is dead! Take him away. [Exits.]","Because of your foolishness, Kocoum is dead! Take him away."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Kocoum was just coming to protect me.,Kocoum was just coming to protect me.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Pocahontas, I sent Kocoum after you. I was worried about you. I thought I was doing the right thing.","Pocahontas, I sent Kocoum after you. I was worried about you. I thought I was doing the right thing."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,All of this happened because of me… And now I’ll never see John Smith again.,All of this happened because of me... And now I will never see John Smith again.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Come with me.,Come with me.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Pocahontas wants to look into the eyes of the man who killed Kocoum.,Pocahontas wants to look into the eyes of the man who killed Kocoum.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Pocahontas!,Pocahontas!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I’m so sorry.,I am so sorry.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"For what, this? I’ve gotten out of worse scrapes than this. Can’t think of any right now, but…","For what, this? I have gotten out of worse scrapes than this. Cannot think of any right now, but..."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"It would’ve been better if we’d never met, none of this would’ve happened.","It would have been better if we would never met, none of this would have happened."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Pocahontas, look at me. I’d rather die tomorrow than live a hundred years without knowing you.","Pocahontas, look at me. I would rather die tomorrow than live a hundred years without knowing you."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Pocahontas?,Pocahontas?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I can’t leave you.,I cannot leave you.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"You never will. No matter what happens to me, I’ll always be with you. Forever.","You never will. No matter what happens to me, I will always be with you. Forever."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"It’s perfect, Wiggins! I couldn’t have planned this better myself. The gold is as good as mine!","It is perfect, Wiggins! I could not have planned this better myself. The gold is as good as mine!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"And so we shall! I told you those savages couldn’t be trusted. Smith tried to befriend them, and look what they’ve done to him. But now I say it’s time to rescue our courageous comrade. At daybreak, we attack!","And so we shall! I told you those savages could not be trusted. Smith tried to befriend them, and look what they have done to him. But now I say it is time to rescue our courageous comrade. At daybreak, we attack!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Barely even human,Barely even human
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Drive them to our shore,Drive them to our shore
+Pocahontas,Kekata,Male,Native American,Powhatan,Supporting,True,True,Beneath that milky hide,Beneath that milky hide
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Barely even human,Barely even human
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Killers at the core,Killers at the core
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,We must sound the drums of war,We must sound the drums of war
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Now it’s up to you, men","Now it is up to you, men"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"They’re going to kill him at sunrise, Grandmother Willow.","They are going to kill him at sunrise, Grandmother Willow."
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,You have to stop them.,You have to stop them.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I can’t.,I cannot.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Child, remember your dream?","Child, remember your dream?"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"I was wrong, Grandmother Willow. I followed the wrong path. I feel so lost. [Meeko gives her John’s compass.] The compass? Spinning arrow!","I was wrong, Grandmother Willow. I followed the wrong path. I feel so lost.  The compass? Spinning arrow!"
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,It’s the arrow from your dream!,It is the arrow from your dream!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I was right! It was pointing to him. [Sunlight hits her face.] Sunrise!,I was right! It was pointing to him.  Sunrise!
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"It’s not too late, child. Let the spirits of the earth guide you! You know your path, child… Now follow it!","It is not too late, child. Let the spirits of the earth guide you! You know your path, child... Now follow it!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,This will be the day,This will be the day
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,This will be the morning,This will be the morning
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I don’t know what I can do,I do not know what I can do
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Eagle help my feet to fly,Eagle help my feet to fly
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Mountain, help my heart be great","Mountain, help my heart be great"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Spirits of the earth and sky,Spirits of the earth and sky
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Please don’t let it be too late,Please do not let it be too late
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,How loud are the drums of war,How loud are the drums of war
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Is the death of all I love,Is the death of all I love
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"No! If you kill him you’ll have to kill me, too.","No! If you kill him you will have to kill me, too."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Daughter, stand back!","Daughter, stand back!"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"I won’t! I love him, father. Look around you. This is where the path of hatred has brought us. This is the path I choose, father. What will yours be?","I will not! I love him, father. Look around you. This is where the path of hatred has brought us. This is the path I choose, father. What will yours be?"
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"My daughter speaks with wisdom beyond her years. We’ve all come here with anger in our hearts, but she comes with courage and understanding. From this day forward, if there is to be more killing, it will not start with me. Release him.","My daughter speaks with wisdom beyond her years. We have all come here with anger in our hearts, but she comes with courage and understanding. From this day forward, if there is to be more killing, it will not start with me. Release him."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Now’s our chance, fire!","Now’s our chance, fire!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,What?,What?
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"It’s a trick, don’t you see? Fire! Fine, I’ll settle this myself.","It is a trick, do not you see? Fire! Fine, I will settle this myself."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,No! [Jumps in the way.],No!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,He stepped right – right into it! It’s his own fault!,He stepped right – right into it! It is his own fault!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Traitors! Unhand me, I say, how dare you!","Traitors! Unhand me, I say, how dare you!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,I’ll see you all hanged for this!,I will see you all hanged for this!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,(muffled) How dare you! Untie me at once! I’ll have your head for this!,How dare you! Untie me at once! I will have your head for this!
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,And he came so highly recommended.,And he came so highly recommended.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"No, not yet. She said she’d be here.","No, not yet. She said she would be here."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Here. It’s from Grandmother Willow’s bark. It’ll help with the pain.,Here. It is from Grandmother Willow’s bark. It will help with the pain.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"What pain? I’ve had worse pain than this. Can’t think of any right now, but…","What pain? I have had worse pain than this. Cannot think of any right now, but..."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"You are always welcome among our people. Thank you, my brother.","You are always welcome among our people. Thank you, my brother."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,[To Flit.] I thought you didn’t like strangers.,I thought you did not like strangers.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,My mother’s necklace.,My mother’s necklace.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"See ya, Percy. [To Pocahontas.] Come with me?","See ya, Percy.  Come with me?"
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,You must choose your own path.,You must choose your own path.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I’m needed here.,I am needed here.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Then I’ll stay with you.,Then I will stay with you.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"No, you have to go back.","No, you have to go back."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,But I can’t leave you.,But I cannot leave you.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"You never will. No matter what happens, I’ll always be with you. Forever. (Singing) And I’m so grateful to you.","You never will. No matter what happens, I will always be with you. Forever.  And I am so grateful to you."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,That’s right. I’m not about to let you boys have all the fun.,That is right. I am not about to let you boys have all the fun.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Reef the topsails!,Reef the topsails!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Steady on the course. It’s all right, Thomas. We’ll get her tied off.","Steady on the course. It is all right, Thomas. We will get her tied off."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Thomas, watch out!","Thomas, watch out!"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Pull the pin!,Pull the pin!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Hang on, Thomas. I’ve got you.","Hang on, Thomas. I have got you."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Well, that was refreshing.","Well, that was refreshing."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Of course. You’d all do the same for me.,Of course. You would all do the same for me.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Trouble on deck?,Trouble on deck?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Thomas fell overboard, sir.","Thomas fell overboard, sir."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Thank heavens he’s been successfully retrieved. Well done, Smith.","Thank heavens he is been successfully retrieved. Well done, Smith."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Thank you, sir.","Thank you, sir."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Don’t lose heart, men. It won’t be long before we reach the New World, and remember what awaits us there: freedom—","Do not lose heart, men. It will not be long before we reach the New World, and remember what awaits us there: freedom—"
+Pocahontas,Percy,Male,Animal,English,Supporting,False,False,[Bark.],
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Prosperity—,Prosperity—
+Pocahontas,Percy,Male,Animal,English,Supporting,False,False,[Bark bark.],
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"The adventure of our lives. You are the finest crew England has to offer and nothing, not wind nor rain nor a thousand bloodthirsty savages shall stand in our way. Carry on men!","The adventure of our lives. You are the finest crew England has to offer and nothing, not wind nor rain nor a thousand bloodthirsty savages shall stand in our way. Carry on men!"
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,A stirring oration sir. I’m sure the men were most exhilarated.,A stirring oration sir. I am sure the men were most exhilarated.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Let us hope so. I’ll need those witless peasants to dig up my gold, won’t I?","Let us hope so. I will need those witless peasants to dig up my gold, will not I?"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"You just worry about that fortune of yours, Thomas. Leave the savages to me.","You just worry about that fortune of yours, Thomas. Leave the savages to me."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Or maybe two or three,Or maybe two or three
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Like all the others, I suppose. I’ve seen hundreds of New Worlds, Thomas. What could possibly be different about this one?","Like all the others, I suppose. I have seen hundreds of New Worlds, Thomas. What could possibly be different about this one?"
+Pocahontas,Kekata,Male,Native American,Powhatan,Supporting,True,True,Ka-ma wingapo Powhatan.,Ka-ma wingapo Powhatan.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Ay-man-ay-cho, Kekata. It’s good to be home. Chesk-cham-ay! The Massawomecks are defeated! With the help of our brothers, our villages are safe again!","Ay-man-ay-cho, Kekata. It is good to be home. Chesk-cham-ay! The Massawomecks are defeated! With the help of our brothers, our villages are safe again!"
+Pocahontas,Kekata,Male,Native American,Powhatan,Supporting,True,True,Your return has brought much joy to the village. Look at all the smiling faces.,Your return has brought much joy to the village. Look at all the smiling faces.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Yes, but there is one smiling face I don’t see. Where is my daughter?","Yes, but there is one smiling face I do not see. Where is my daughter?"
+Pocahontas,Kekata,Male,Native American,Powhatan,Supporting,True,True,You know Pocahontas. She has her mother’s spirit. She goes wherever the wind takes her.,You know Pocahontas. She has her mother’s spirit. She goes wherever the wind takes her.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Pocahontas! Your father’s back! Come down here!,Pocahontas! Your father’s back! Come down here!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"He’s back, Flit! Come on, Meeko.","He is back, Flit! Come on, Meeko."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"No, not that… way.","No, not that... way."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Show-off. Pocahontas? Pocahontas? Are you all right? Well, you better be all right because I’m not coming in after you…! [Coughs.] Don’t you think we’re getting a little old for these games?","Show-off. Pocahontas? Pocahontas? Are you all right? Well, you better be all right because I am not coming in after you...!  Do not you think we are getting a little old for these games?"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Help me turn this thing over.,Help me turn this thing over.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,What were you doing up there?,What were you doing up there?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Thinking. Meeko!,Thinking. Meeko!
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"About the dream again? Oh, have you figured it out yet?","About the dream again? Oh, have you figured it out yet?"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"I know it means something, I just don’t know what.","I know it means something, I just do not know what."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,You should ask your father about it.,You should ask your father about it.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Maybe I should. Come on, Flit. Quit playing around, we have to get back.","Maybe I should. Come on, Flit. Quit playing around, we have to get back."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"…faced a determined enemy. The battle lasted from the rising of the sun until the evening shadows fell. Our warriors fought with courage, but none as bravely as Kocoum. He attacked with the fierce strength of the bear. He has proven himself to be the greatest…","...faced a determined enemy. The battle lasted from the rising of the sun until the evening shadows fell. Our warriors fought with courage, but none as bravely as Kocoum. He attacked with the fierce strength of the bear. He has proven himself to be the greatest..."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Oh, he’s so handsome.","Oh, he is so handsome."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I especially love his smile.,I especially love his smile.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,… destroying every enemy in his path. Tonight we will feast in his honor.,... destroying every enemy in his path. Tonight we will feast in his honor.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,My daughter.,My daughter.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Wingapo, father.","Wingapo, father."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Seeing you gives me great joy.,Seeing you gives me great joy.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I am so glad you’ve come home safely.,I am so glad you have come home safely.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Come with me, we have much to talk about. I want to hear everything you’ve been doing.","Come with me, we have much to talk about. I want to hear everything you have been doing."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Father, for many nights now I’ve been having a very strange dream. I think it’s telling me something’s about to happen, something exciting.","Father, for many nights now I have been having a very strange dream. I think it is telling me something is about to happen, something exciting."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Yes, something exciting is about to happen.","Yes, something exciting is about to happen."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Really, what is it?","Really, what is it?"
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Kocoum has asked to seek your hand in marriage.,Kocoum has asked to seek your hand in marriage.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Marry Kocoum?,Marry Kocoum?
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,I told him it would make my heart soar.,I told him it would make my heart soar.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,But he’s so… serious.,But he is so... serious.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"My daughter, Kocoum will make a fine husband. He is loyal and strong and will build you a good house with sturdy walls. With him you will be safe from harm.","My daughter, Kocoum will make a fine husband. He is loyal and strong and will build you a good house with sturdy walls. With him you will be safe from harm."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Father, I think my dream is pointing me down another path.","Father, I think my dream is pointing me down another path."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,This is the right path for you.,This is the right path for you.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,But why can’t I choose—,But why cannot I choose—
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Pocahontas, come with me. You are the daughter of the chief. It is time to take your place among our people. Even the wild mountain stream must someday join the big river.","Pocahontas, come with me. You are the daughter of the chief. It is time to take your place among our people. Even the wild mountain stream must someday join the big river."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,He wants me to be steady… Like the river. But it’s not steady at all.,He wants me to be steady... Like the river. But it is not steady at all.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Is that my Pocahontas?,Is that my Pocahontas?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Grandmother Willow, I need to talk to you.","Grandmother Willow, I need to talk to you."
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Good morning, child. I was hoping you’d visit today. Why, your mother’s necklace!","Good morning, child. I was hoping you would visit today. Why, your mother’s necklace!"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,That’s what I wanted to talk to you about. My father wants me to marry Kocoum.,That is what I wanted to talk to you about. My father wants me to marry Kocoum.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Kocoum? But he’s so serious.,Kocoum? But he is so serious.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I know. My father thinks it’s the right path for me. But lately I’ve been having this dream and I think it’s—,I know. My father thinks it is the right path for me. But lately I have been having this dream and I think it is—
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Oh, a dream! Let’s hear all about it!","Oh, a dream! Let us hear all about it!"
+Pocahontas,Animals,Unknown,Animal,Nature,Supporting,False,False,[Chatter.],
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Quiet! Quiet!,Quiet! Quiet!
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Now, child, you were saying.","Now, child, you were saying."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Well, I’m running through the woods and then right there in front of me is an arrow. As I look at it, it starts to spin.","Well, I am running through the woods and then right there in front of me is an arrow. As I look at it, it starts to spin."
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,A spinning arrow? How unusual.,A spinning arrow? How unusual.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Yes! It spins faster and faster and faster until suddenly it stops.,Yes! It spins faster and faster and faster until suddenly it stops.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Hmm. Well, seems to me this spinning arrow is pointing you down your path.","Hmm. Well, seems to me this spinning arrow is pointing you down your path."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"But Grandmother Willow, what is my path? How am I ever going to find it?","But Grandmother Willow, what is my path? How am I ever going to find it?"
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,[Chuckle.] Your mother asked me the very same question.,Your mother asked me the very same question.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,She did? What did you tell her?,She did? What did you tell her?
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"I told her to listen. All around you are spirits, child. They live in the earth, the water, the sky. If you listen, they will guide you.","I told her to listen. All around you are spirits, child. They live in the earth, the water, the sky. If you listen, they will guide you."
+Pocahontas,Wind Spirits,Unknown,Spiritual Entity,Nature/Spiritual,Supporting,False,False,Ay ay ay na ay ay na,Ay ay ay na ay ay na
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I hear the wind.,I hear the wind.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Yes, what is it telling you?","Yes, what is it telling you?"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I don’t understand.,I do not understand.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Que que na-to-ra,Que que na-to-ra
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,It’s saying something’s coming! Strange clouds?,It is saying something is coming! Strange clouds?
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Listen with your heart,Listen with your heart
+Pocahontas,Wind Spirits,Unknown,Spiritual Entity,Nature/Spiritual,Supporting,False,False,You will understand,You will understand
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,What do you see?,What do you see?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Clouds. Strange clouds.,Clouds. Strange clouds.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Look at it, Wiggins. An entire New World chock full of gold, just waiting for me.","Look at it, Wiggins. An entire New World chock full of gold, just waiting for me."
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,"And scores of adventures waiting for us, right, Percy? Do you think we’ll meet some savages?","And scores of adventures waiting for us, right, Percy? Do you think we will meet some savages?"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"If we do, we should be sure to give them a proper English greeting.","If we do, we should be sure to give them a proper English greeting."
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,"Oh, gift baskets!","Oh, gift baskets!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,And he came so highly recommended.,And he came so highly recommended.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"It’s perfect, Governor. The water’s deep enough, we can pull right up to shore. Hey there, Percy.","It is perfect, Governor. The water’s deep enough, we can pull right up to shore. Hey there, Percy."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Very well, then. Give the order.","Very well, then. Give the order."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Already done, sir. I’ve got a crew assembled and they’re ready to go.","Already done, sir. I have got a crew assembled and they are ready to go."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"About the natives, I’m counting on you to make sure those filthy heathens don’t disrupt our mission.","About the natives, I am counting on you to make sure those filthy heathens do not disrupt our mission."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Well, if they’re anything like the savages I’ve fought before, it’s nothing I can’t handle.","Well, if they are anything like the savages I have fought before, it is nothing I cannot handle."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Right. That’ll be all, Smith, there’s a good man.","Right. That will be all, Smith, there is a good man."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"See ya, Percy.","See ya, Percy."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"The men like Smith, don’t they? I’ve never been a popular man.","The men like Smith, do not they? I have never been a popular man."
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,I like you.,I like you.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,And don’t think I don’t know what those backstabbers at court say about me.,And do not think I do not know what those backstabbers at court say about me.
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,"Oh yes, all that talk about you being a pathetic social climber who’s failed at everything he’s—","Oh yes, all that talk about you being a pathetic social climber who is failed at everything he is—"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"I’m very well aware that this is my last chance for glory. But mark my words, Wiggins, when King James see the gold these peasants unearth success will be mine, at last.","I am very well aware that this is my last chance for glory. But mark my words, Wiggins, when King James see the gold these peasants unearth success will be mine, at last."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Come on, men, we didn’t come all this way just to look at it.","Come on, men, we did not come all this way just to look at it."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Getting a better look. [Meeko bumps into him.] Hey! Well, you’re a strange-looking fellow. You hungry? Here you go, it’s a biscuit. It’s food… Well, sort of. You like it, eh? Well, try eating it for four months straight. You got a friend back there? [Flit attacks him.] Hey, what, what, watch out! No… Get that… Look out!","Getting a better look.  Hey! Well, you are a strange-looking fellow. You hungry? Here you go, it is a biscuit. It is food... Well, sort of. You like it, eh? Well, try eating it for four months straight. You got a friend back there?  Hey, what, what, watch out! No... Get that... Look out!"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"All right, all right, I’m leaving.","All right, all right, I am leaving."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"My brothers, we must know more about these visitors. Kekata, what do you see?","My brothers, we must know more about these visitors. Kekata, what do you see?"
+Pocahontas,Kekata,Male,Native American,Powhatan,Supporting,True,True,"[Chanting.] These are not men like us, but strange beasts with bodies that shine like the sun and weapons that spout fire and thunder. They prowl the earth like ravenous wolves consuming everything in their path.","These are not men like us, but strange beasts with bodies that shine like the sun and weapons that spout fire and thunder. They prowl the earth like ravenous wolves consuming everything in their path."
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,Great Powhatan. I will lead our warriors to the river and attack. We will destroy these invaders the way we destroyed the Massawomecks.,Great Powhatan. I will lead our warriors to the river and attack. We will destroy these invaders the way we destroyed the Massawomecks.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Kocoum, in that battle we knew how to fight our enemy, but these pale visitors are strange to us. Take some men to the river to observe them. Let us hope they do not intend to stay.","Kocoum, in that battle we knew how to fight our enemy, but these pale visitors are strange to us. Take some men to the river to observe them. Let us hope they do not intend to stay."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"I hereby claim this land and all its riches in the name of His Majesty King James the first, and do so name this settlement Jamestown.","I hereby claim this land and all its riches in the name of His Majesty King James the first, and do so name this settlement Jamestown."
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,"Bravo! Bravo! Beautifully spoken, sir! Hurry now, Percy. We must be all squeaky clean for the New World. [Exits.]","Bravo! Bravo! Beautifully spoken, sir! Hurry now, Percy. We must be all squeaky clean for the New World."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Captain Smith! It appears I’ve selected the perfect location, eh? Not a savage in sight.","Captain Smith! It appears I have selected the perfect location, eh? Not a savage in sight."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Just because we don’t see them doesn’t mean they’re not out there, sir.","Just because we do not see them does not mean they are not out there, sir."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Well then, perhaps you should venture forth and determine their whereabouts, hmm?","Well then, perhaps you should venture forth and determine their whereabouts, hmm?"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"If there are any Indians out there, I’ll find them.","If there are any Indians out there, I will find them."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Now, gentlemen, to work. You men, get the ship unloaded.","Now, gentlemen, to work. You men, get the ship unloaded."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,You men build the fort. The rest of you… Break out the shovels! It’s time to start digging.,You men build the fort. The rest of you... Break out the shovels! It is time to start digging.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Why, of course! Let’s not forget what the Spanish found when they came to the New World. Gold, mountains of it. Why, for years they’ve been ravaging the New World of its most precious resources but now… It’s our turn.","Why, of course! Let us not forget what the Spanish found when they came to the New World. Gold, mountains of it. Why, for years they have been ravaging the New World of its most precious resources but now... It is our turn."
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,Hey nonny nonny,Hey nonny nonny
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Ooh, how I love it","Ooh, how I love it"
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,Hey nonny nonny,Hey nonny nonny
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Riches for cheap,Riches for cheap
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,Hey nonny nonny,Hey nonny nonny
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,There’ll be heaps of it,There will be heaps of it
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,All of my life I have searched for land like this one,All of my life I have searched for land like this one
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Keep on working, lads","Keep on working, lads"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Mine,Mine
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Don’t be shirking, lads","Do not be shirking, lads"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Beautiful gold,Beautiful gold
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Make the mounds big, boys","Make the mounds big, boys"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,This land we behold,This land we behold
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,This beauty untold,This beauty untold
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,A man can be bold,A man can be bold
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,It all can be sold,It all can be sold
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Is,Is
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Mine,Mine
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Mine,Mine
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"No, wait! Please! Please! Don’t run off. It’s all right, I’m not gonna hurt you. Here, let me help you out of there.","No, wait! Please! Please! Do not run off. It is all right, I am not going to hurt you. Here, let me help you out of there."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Mat-ta-que na-to-rath.,Mat-ta-que na-to-rath.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"You don’t understand a word I’m saying, do you? It’s all right.","You do not understand a word I am saying, do you? It is all right."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Who are you?,Who are you?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Pocahontas.,Pocahontas.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,What? What did you say?,What? What did you say?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,My name is Pocahontas.,My name is Pocahontas.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,I’m John Smith.,I am John Smith.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"That’s it. Keep at it, men. Keep digging. It’s got to be here somewhere.","That is it. Keep at it, men. Keep digging. It is got to be here somewhere."
+Pocahontas,Namontack,Male,Native American,Powhatan,Supporting,True,True,"There’s thirty more of them, down by the ridge.","There is thirty more of them, down by the ridge."
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,That makes more than a hundred.,That makes more than a hundred.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Anything yet?,Anything yet?
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"For king and country, I know, I know, and I share your fatigue. Wiggins! Wiggins!","For king and country, I know, I know, and I share your fatigue. Wiggins! Wiggins!"
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,Coming!,Coming!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Dispose of this.,Dispose of this.
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,"[To Percy.] Who’s a good doggy? Who’s a good doggy? Fetch, boy!","Who is a good doggy? Who is a good doggy? Fetch, boy!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Savages! It’s an ambush, arm yourselves!","Savages! It is an ambush, arm yourselves!"
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,Run!,Run!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Arm yourselves! Make sure every man has a musket! Shoot! [Thomas trips over a log and his rifle goes off accidentally, firing right between Ratcliffe's legs.] Them, you idiot! Where’s that blasted Smith when I need him?","Arm yourselves! Make sure every man has a musket! Shoot!  Them, you idiot! Where is that blasted Smith when I need him?"
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,Namontack!,Namontack!
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,Back to the village!,Back to the village!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,[To Thomas.] And you! Learn to use that thing properly. A man’s not a man unless he knows how to shoot.,And you! Learn to use that thing properly. A man’s not a man unless he knows how to shoot.
+Pocahontas,Kekata,Male,Native American,Powhatan,Supporting,True,True,[Chanting.],
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"These beasts invade our shores, and now this.","These beasts invade our shores, and now this."
+Pocahontas,Kekata,Male,Native American,Powhatan,Supporting,True,True,[Chanting.] This wound is strange to me.,This wound is strange to me.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"We will fight this enemy, but we cannot do it alone. Kocoum, send messengers to every village in our nation. We will call on our brothers to help us fight. [Steps outside the tent.] These White Men are dangerous! No one is to go near them.","We will fight this enemy, but we cannot do it alone. Kocoum, send messengers to every village in our nation. We will call on our brothers to help us fight.  These White Men are dangerous! No one is to go near them."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,It’s called a helmet.,It is called a helmet.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Helmet.,Helmet.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"So, what river is this?","So, what river is this?"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Quiyoughcohannock.,Quiyoughcohannock.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,You have most unusual names here. Chicahominy. Quiyough - Quiyoughcohannock. Pocahontas.,You have most unusual names here. Chicahominy. Quiyough - Quiyoughcohannock. Pocahontas.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"You have the most unusual name, too. John Smith.","You have the most unusual name, too. John Smith."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,[Pulls Meeko out of his bag.] Hey! Is this bottomless pit a friend of yours?,Hey! Is this bottomless pit a friend of yours?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Meeko!,Meeko!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Nothing’s happening.,Nothing’s happening.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"No, no, I need your hand first. It’s how we say hello.","No, no, I need your hand first. It is how we say hello."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,This is how we say hello. Wingapo.,This is how we say hello. Wingapo.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Wingapo.,Wingapo.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,And how we say goodbye. Ana.,And how we say goodbye. Ana.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"I like hello better. [Flit charges at him.] Yeah, I remember you.","I like hello better.  Yeah, I remember you."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Flit just doesn’t like strangers.,Flit just does not like strangers.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"But I’m not a stranger anymore. Hmm, stubborn little fellow, isn’t he?","But I am not a stranger anymore. Hmm, stubborn little fellow, is not he?"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Very stubborn.,Very stubborn.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Hey!,Hey!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Meeko! Come back here!,Meeko! Come back here!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Don’t worry, he can’t hurt it. [Meeko hits it against a rock.] Hey, what are you doing?!","Do not worry, he cannot hurt it.  Hey, what are you doing?!"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Meeko bring that back!,Meeko bring that back!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"No, no, it’s all right. He can keep it. Call it a gift.","No, no, it is all right. He can keep it. Call it a gift."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,What was that?,What was that?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,My compass.,My compass.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Compass?,Compass?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"It tells you how to find your way when you get lost. But it’s all right, I’ll get another one in London.","It tells you how to find your way when you get lost. But it is all right, I will get another one in London."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,London? Is that your village?,London? Is that your village?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Yes, it’s a very big village.","Yes, it is a very big village."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,What’s it like?,What is it like?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Well, it’s got streets filled with carriages and bridges over the rivers and buildings as tall as trees.","Well, it is got streets filled with carriages and bridges over the rivers and buildings as tall as trees."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I’d like to see those things.,I would like to see those things.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,You will.,You will.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,How?,How?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,We’re going to build them here. We’ll show your people how to use this land properly. How to make the most of it.,We are going to build them here. We will show your people how to use this land properly. How to make the most of it.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Make the most of it?,Make the most of it?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Yes, we’ll build roads and decent houses and—","Yes, we will build roads and decent houses and—"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Our houses are fine.,Our houses are fine.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"You think that, only because you don’t know any better. [Pocahontas starts to leave.] Wait a minute, don’t take it that – [Flit attacks him.] Hey, hey, wait! Wait, wait! There’s so much we can teach you. We’ve improved the lives of savages all over the world.","You think that, only because you do not know any better.  Wait a minute, do not take it that –  Hey, hey, wait! Wait, wait! There is so much we can teach you. We have improved the lives of savages all over the world."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Savages?!,Savages?!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Uh, not that you’re a savage.","Uh, not that you are a savage."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Just my people.,Just my people.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"No, listen, that’s not what I meant. Let me explain—","No, listen, that is not what I meant. Let me explain—"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Let go!,Let go!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"No, I’m not letting you leave. Look, don’t do this. ‘Savage’ is just a word. You know. A term for… people who are uncivilized.","No, I am not letting you leave. Look, do not do this. ‘Savage’ is just a word. You know. A term for... people who are uncivilized."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Like me.,Like me.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Well, when I say uncivilized, what I mean is – is…","Well, when I say uncivilized, what I mean is – is..."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"What you mean is, not like you.","What you mean is, not like you."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,What is it?,What is it?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,The drums. They mean trouble. I shouldn’t be here.,The drums. They mean trouble. I should not be here.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,I want to see you again.,I want to see you again.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I can’t.,I cannot.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Please, don’t leave.","Please, do not leave."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I’m sorry. I have to go.,I am sorry. I have to go.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,What?,What?
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"I’m doomed! I should be wallowing in riches right now and I haven’t seen so much as a speck! It’s got to be here somewhere. Where could it be? I’ve mined the forests and the hills and swamps, and nothing! Why can’t I find it? What am I overlooking?","I am doomed! I should be wallowing in riches right now and I have not seen so much as a speck! It is got to be here somewhere. Where could it be? I have mined the forests and the hills and swamps, and nothing! Why cannot I find it? What am I overlooking?"
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,Ah!,Ah!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,[Gasp.],
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,I… I… I made it myself.,I... I... I made it myself.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Take that silly… Of course, the Indians! Wiggins, why do you think those insolent heathens attacked us?","Take that silly... Of course, the Indians! Wiggins, why do you think those insolent heathens attacked us?"
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,Because we invaded their land and cut down their trees and dug up their earth?,Because we invaded their land and cut down their trees and dug up their earth?
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"It’s the gold! They have it and they don’t want us to take it from them. Well, I’ll just have to take it by force then, won’t I?","It is the gold! They have it and they do not want us to take it from them. Well, I will just have to take it by force then, will not I?"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,You there! Where’s Captain Smith?,You there! Where is Captain Smith?
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Well, then go get him, for heaven’s sake!","Well, then go get him, for heaven’s sake!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"That’s what guns are for, now arm yourselves and get moving!","That is what guns are for, now arm yourselves and get moving!"
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Pocahontas! You should be inside the village.,Pocahontas! You should be inside the village.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,We’ll be all right.,We will be all right.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,We’re gathering food for when the warriors arrive.,We are gathering food for when the warriors arrive.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Don’t go far. Now is not the time to be running off.,Do not go far. Now is not the time to be running off.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Yes, father.","Yes, father."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"When I see you wear that necklace, you look just like your mother.","When I see you wear that necklace, you look just like your mother."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I miss her.,I miss her.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"But she is still with us. Whenever the wind blows through the trees, I feel her presence. Our people looked to her for wisdom and strength. Someday, they will look to you as well.","But she is still with us. Whenever the wind blows through the trees, I feel her presence. Our people looked to her for wisdom and strength. Someday, they will look to you as well."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I would be honored by that.,I would be honored by that.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,You shouldn’t be out here alone. I’ll send for Kocoum. [Exits.],You should not be out here alone. I will send for Kocoum.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,What?,What?
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,You’re hiding something.,You are hiding something.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I’m not hiding anything.,I am not hiding anything.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Pocahontas, you can tell me, I promise I won’t tell anyone —","Pocahontas, you can tell me, I promise I will not tell anyone —"
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"[Gasp.] Pocahontas, look! It’s one of them! I’m going to get— [Pocahontas covers her mouth.]","Pocahontas, look! It is one of them! I am going to get—"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,What are you doing here?,What are you doing here?
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Mmm?!,Mmm?!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,I had to see you again.,I had to see you again.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Mmm!,Mmm!
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,Pocahontas!,Pocahontas!
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Mmm!,Mmm!
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,Pocahontas!,Pocahontas!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Please, don’t say anything. Quick, this way.","Please, do not say anything. Quick, this way."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,But—,But—
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,"Nakoma, where is Pocahontas?","Nakoma, where is Pocahontas?"
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,I… I haven’t seen her.,I... I have not seen her.
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,Pocahontas can’t keep running off. It’s dangerous out there. Tell her that. She listens to you.,Pocahontas cannot keep running off. It is dangerous out there. Tell her that. She listens to you.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Huh, sure she does.","Huh, sure she does."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"This place is incredible! And to think, we came all this way just to dig it up for gold.","This place is incredible! And to think, we came all this way just to dig it up for gold."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Gold?,Gold?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Hey, Meeko.","Hey, Meeko."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,What’s gold?,What is gold?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"You know, it’s… It’s yellow, comes out of the ground, it’s really valuable.","You know, it is... It is yellow, comes out of the ground, it is really valuable."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Oh, here, we’ve lots of it. [Takes out an ear of corn.] Gold.","Oh, here, we have lots of it.  Gold."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,No… Gold is this. [Takes out a gold coin.],No... Gold is this.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Hmm, there’s nothing like that around here.","Hmm, there is nothing like that around here."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,No gold?,No gold?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Not that I’ve seen.,Not that I have seen.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,[Laughs.] All this way for nothing. Those boys are in for a big surprise.,All this way for nothing. Those boys are in for a big surprise.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Will they leave?,Will they leave?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Some of them might.,Some of them might.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Will you go home?,Will you go home?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Well, it’s not like I have much of a home to go back to. I’ve never really belonged anywhere.","Well, it is not like I have much of a home to go back to. I have never really belonged anywhere."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,You could belong here.,You could belong here.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,What was that?,What was that?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Did you see something?,Did you see something?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"No… No, I just, uh… I… I didn’t see anything. Did I?","No... No, I just, uh... I... I did not see anything. Did I?"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Look again.,Look again.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Let it break upon you,Let it break upon you
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Pocahontas, the tree is talking to me.","Pocahontas, the tree is talking to me."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Then you should talk back.,Then you should talk back.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Don’t be frightened, young man. My bark is worse than my bite.","Do not be frightened, young man. My bark is worse than my bite."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Say something.,Say something.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,What do you say to a tree?,What do you say to a tree?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Anything you want.,Anything you want.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"So, uh…","So, uh..."
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Come closer, John Smith. He has a good soul. And he’s handsome, too.","Come closer, John Smith. He has a good soul. And he is handsome, too."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Oh, I like her.","Oh, I like her."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I knew you would.,I knew you would.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,We can’t let them see us.,We cannot let them see us.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Quick, over here.","Quick, over here."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,I’m glad you’re on our side.,I am glad you are on our side.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,There’s still some snap in these old vines.,There is still some snap in these old vines.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,I better get back before they send the whole camp out after me.,I better get back before they send the whole camp out after me.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,When will I see you again?,When will I see you again?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Meet me tonight, right here. [Exits.]","Meet me tonight, right here."
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Well, I haven’t had this much excitement in 200 years.","Well, I have not had this much excitement in 200 years."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"What am I doing? I shouldn’t be seeing him again. I mean, I want to see him again—","What am I doing? I should not be seeing him again. I mean, I want to see him again—"
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Who wouldn’t? I want to see him again.,Who would not? I want to see him again.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"But still, something inside is telling me it’s the right thing.","But still, something inside is telling me it is the right thing."
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Perhaps it’s your dream.,Perhaps it is your dream.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,My dream? Do you think he’s the one the spinning arrow was pointing to?,My dream? Do you think he is the one the spinning arrow was pointing to?
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,Mm-hmm!,Mm-hmm!
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Pocahontas, are you crazy? What were you doing with that—","Pocahontas, are you crazy? What were you doing with that—"
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,There you are!,There you are!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Kocoum!,Kocoum!
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,Look at them. Now we have enough warriors to destroy those white demons!,Look at them. Now we have enough warriors to destroy those white demons!
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Now that we are joined by our brothers, we will defeat this enemy.","Now that we are joined by our brothers, we will defeat this enemy."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Father, I need to speak with you.","Father, I need to speak with you."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Not now, my daughter. The council is gathering.","Not now, my daughter. The council is gathering."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,We don’t have to fight them! There must be a better way.,We do not have to fight them! There must be a better way.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Sometimes our paths are chosen for us.,Sometimes our paths are chosen for us.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,But maybe we should try talking to them.,But maybe we should try talking to them.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,They do not want to talk.,They do not want to talk.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"But if one of them did want to talk, you would listen to him, wouldn’t you?","But if one of them did want to talk, you would listen to him, would not you?"
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Pocahontas—,Pocahontas—
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Wouldn’t you?,Would not you?
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Of course I would. But it is not that simple. Nothing is simple anymore.,Of course I would. But it is not that simple. Nothing is simple anymore.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Easy, Thomas. It’s me.","Easy, Thomas. It is me."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Not aiming like that, you couldn’t. Keep both eyes open when you shoot. You’ll see twice as well.","Not aiming like that, you could not. Keep both eyes open when you shoot. You will see twice as well."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Smith! Where have you been?,Smith! Where have you been?
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"I was out scouting the terrain, sir.","I was out scouting the terrain, sir."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Excellent. Then you must know the Indians’ whereabouts. We’ll need that information for the battle.,Excellent. Then you must know the Indians’ whereabouts. We will need that information for the battle.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,What battle?,What battle?
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,We will eliminate these savages once and for all.,We will eliminate these savages once and for all.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,No! You can’t do that!,No! You cannot do that!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Look, we don’t have to fight them.","Look, we do not have to fight them."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,I met one of them.,I met one of them.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"They’re not savages, they can help us. They know the land, they know how to navigate the rivers. And, look! It’s food!","They are not savages, they can help us. They know the land, they know how to navigate the rivers. And, look! It is food!"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"It’s better than hardtack and gruel, that’s for sure.","It is better than hardtack and gruel, that is for sure."
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,I like gruel.,I like gruel.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"They don’t want to feed us, you ninnies! They want to kill us! All of us! They’ve got our gold, and they’ll do anything to keep it!","They do not want to feed us, you ninnies! They want to kill us! All of us! They have got our gold, and they will do anything to keep it!"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,But there is no gold!,But there is no gold!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,And I suppose your little Indian friend told you this.,And I suppose your little Indian friend told you this.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Yes.,Yes.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Lies! Lies, all of it! Murderous thieves, there’s no room for their kind in civilized society.","Lies! Lies, all of it! Murderous thieves, there is no room for their kind in civilized society."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,But this is their land!,But this is their land!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"This is my land! I make the laws here. And I say anyone so much as looks at an Indian without killing him on sight, will be tried for treason and hanged.","This is my land! I make the laws here. And I say anyone so much as looks at an Indian without killing him on sight, will be tried for treason and hanged."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Pocahontas!,Pocahontas!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Nakoma!,Nakoma!
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Don’t go out there. I lied for you once, don’t ask me to do it again.","Do not go out there. I lied for you once, do not ask me to do it again."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I have to do this.,I have to do this.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,He’s one of them!,He is one of them!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,You don’t know him.,You do not know him.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"You go out there, you’ll be turning your back on your own people.","You go out there, you will be turning your back on your own people."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I’m trying to help my people.,I am trying to help my people.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Pocahontas, please… You’re my best friend, I don’t want you to get hurt.","Pocahontas, please... You are my best friend, I do not want you to get hurt."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"I won’t, I know what I’m doing.","I will not, I know what I am doing."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Pocahontas, no!","Pocahontas, no!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Follow him.,Follow him.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,I want to know where he’s sneaking off to.,I want to know where he is sneaking off to.
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"And if you happen to see any Indians, shoot them. Oh, and Thomas? You’ve been a slipshod sailor and a poor excuse for a soldier. Don’t disappoint me again.","And if you happen to see any Indians, shoot them. Oh, and Thomas? You have been a slipshod sailor and a poor excuse for a soldier. Do not disappoint me again."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Kocoum?,Kocoum?
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,What is it?,What is it?
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,It’s Pocahontas.,It is Pocahontas.
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,What’s wrong? Is she all right?,What is wrong? Is she all right?
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,I think she’s in trouble.,I think she is in trouble.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"The earth is trembling, child. What’s happened?","The earth is trembling, child. What is happened?"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,The warriors are here!,The warriors are here!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Pocahontas!,Pocahontas!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,John!,John!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Listen to me. My men are planning to attack your people. You’ve got to warn them.,Listen to me. My men are planning to attack your people. You have got to warn them.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Maybe it’s not too late to stop this. You have to come with me and talk to my father.,Maybe it is not too late to stop this. You have to come with me and talk to my father.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Pocahontas, talking isn’t going to do any good. I already tried talking to my men but everything about this land has them spooked.","Pocahontas, talking is not going to do any good. I already tried talking to my men but everything about this land has them spooked."
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,That’s the strangest creature I’ve ever seen!,That is the strangest creature I have ever seen!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Percy! Easy, Percy, come here!","Percy! Easy, Percy, come here!"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Meeko, come back!","Meeko, come back!"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"You see what I mean? Once two sides want to fight, nothing can stop them.","You see what I mean? Once two sides want to fight, nothing can stop them."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Come, come here!","Come, come here!"
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"It’s all right, he’s a friend. Bad, bad dog! Sit!","It is all right, he is a friend. Bad, bad dog! Sit!"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,What are you doing? Meeko!,What are you doing? Meeko!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Percy, get back here! Stop that!","Percy, get back here! Stop that!"
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"All right, that’s enough! It’s enough to make your sap boil. Now then, there’s something I want to show you. Look. [Touches a vine to the river surface.]","All right, that is enough! It is enough to make your sap boil. Now then, there is something I want to show you. Look."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,The ripples.,The ripples.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,What about them?,What about them?
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"So small at first, then look how they grow. But someone has to start them.","So small at first, then look how they grow. But someone has to start them."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,They’re not going to listen to us.,They are not going to listen to us.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Young man, sometimes the right path is not the easiest one. Don’t you see, only when the fighting stops can you can be together.","Young man, sometimes the right path is not the easiest one. Do not you see, only when the fighting stops can you can be together."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"All right, let’s go talk to your father.","All right, let us go talk to your father."
+Pocahontas,Kocoum,Male,Native American,Powhatan,Supporting,True,True,[War cry.],
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,[Gasp.],
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Kocoum, no! Kocoum! Leave him alone! [Gasps.] Kocoum, stop!","Kocoum, no! Kocoum! Leave him alone!  Kocoum, stop!"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,[Gasp.],
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Thomas!,Thomas!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,You killed him!,You killed him!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Get away from him!,Get away from him!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Pocahontas, it won’t help! He was only—","Pocahontas, it will not help! He was only—"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,He killed him!,He killed him!
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Thomas, get out of here. Get out of here!","Thomas, get out of here. Get out of here!"
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Who did this?,Who did this?
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Your weapons are strong. But now our anger is stronger. At sunrise he will be the first to die!,Your weapons are strong. But now our anger is stronger. At sunrise he will be the first to die!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,But father!,But father!
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,I told you to stay in the village. You disobeyed me. You have shamed your father!,I told you to stay in the village. You disobeyed me. You have shamed your father!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I was only trying to help.,I was only trying to help.
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Because of your foolishness, Kocoum is dead! Take him away. [Exits.]","Because of your foolishness, Kocoum is dead! Take him away."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Kocoum was just coming to protect me.,Kocoum was just coming to protect me.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,"Pocahontas, I sent Kocoum after you. I was worried about you. I thought I was doing the right thing.","Pocahontas, I sent Kocoum after you. I was worried about you. I thought I was doing the right thing."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,All of this happened because of me… And now I’ll never see John Smith again.,All of this happened because of me... And now I will never see John Smith again.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Come with me.,Come with me.
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Pocahontas wants to look into the eyes of the man who killed Kocoum.,Pocahontas wants to look into the eyes of the man who killed Kocoum.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Pocahontas!,Pocahontas!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I’m so sorry.,I am so sorry.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"For what, this? I’ve gotten out of worse scrapes than this. Can’t think of any right now, but…","For what, this? I have gotten out of worse scrapes than this. Cannot think of any right now, but..."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"It would’ve been better if we’d never met, none of this would’ve happened.","It would have been better if we would never met, none of this would have happened."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"Pocahontas, look at me. I’d rather die tomorrow than live a hundred years without knowing you.","Pocahontas, look at me. I would rather die tomorrow than live a hundred years without knowing you."
+Pocahontas,Nakoma,Female,Native American,Powhatan,Supporting,True,True,Pocahontas?,Pocahontas?
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I can’t leave you.,I cannot leave you.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"You never will. No matter what happens to me, I’ll always be with you. Forever.","You never will. No matter what happens to me, I will always be with you. Forever."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"It’s perfect, Wiggins! I couldn’t have planned this better myself. The gold is as good as mine!","It is perfect, Wiggins! I could not have planned this better myself. The gold is as good as mine!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"And so we shall! I told you those savages couldn’t be trusted. Smith tried to befriend them, and look what they’ve done to him. But now I say it’s time to rescue our courageous comrade. At daybreak, we attack!","And so we shall! I told you those savages could not be trusted. Smith tried to befriend them, and look what they have done to him. But now I say it is time to rescue our courageous comrade. At daybreak, we attack!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Barely even human,Barely even human
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,Drive them to our shore,Drive them to our shore
+Pocahontas,Kekata,Male,Native American,Powhatan,Supporting,True,True,Beneath that milky hide,Beneath that milky hide
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Barely even human,Barely even human
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,Killers at the core,Killers at the core
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,We must sound the drums of war,We must sound the drums of war
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Now it’s up to you, men","Now it is up to you, men"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"They’re going to kill him at sunrise, Grandmother Willow.","They are going to kill him at sunrise, Grandmother Willow."
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,You have to stop them.,You have to stop them.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I can’t.,I cannot.
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"Child, remember your dream?","Child, remember your dream?"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"I was wrong, Grandmother Willow. I followed the wrong path. I feel so lost. [Meeko gives her John’s compass.] The compass? Spinning arrow!","I was wrong, Grandmother Willow. I followed the wrong path. I feel so lost.  The compass? Spinning arrow!"
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,It’s the arrow from your dream!,It is the arrow from your dream!
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I was right! It was pointing to him. [Sunlight hits her face.] Sunrise!,I was right! It was pointing to him.  Sunrise!
+Pocahontas,Grandmother Willow,Female,Mythical Entity,Nature/Spiritual,Supporting,False,False,"It’s not too late, child. Let the spirits of the earth guide you! You know your path, child… Now follow it!","It is not too late, child. Let the spirits of the earth guide you! You know your path, child... Now follow it!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,This will be the day,This will be the day
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,This will be the morning,This will be the morning
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I don’t know what I can do,I do not know what I can do
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Eagle help my feet to fly,Eagle help my feet to fly
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"Mountain, help my heart be great","Mountain, help my heart be great"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Spirits of the earth and sky,Spirits of the earth and sky
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Please don’t let it be too late,Please do not let it be too late
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,How loud are the drums of war,How loud are the drums of war
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Is the death of all I love,Is the death of all I love
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"No! If you kill him you’ll have to kill me, too.","No! If you kill him you will have to kill me, too."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"Daughter, stand back!","Daughter, stand back!"
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"I won’t! I love him, father. Look around you. This is where the path of hatred has brought us. This is the path I choose, father. What will yours be?","I will not! I love him, father. Look around you. This is where the path of hatred has brought us. This is the path I choose, father. What will yours be?"
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"My daughter speaks with wisdom beyond her years. We’ve all come here with anger in our hearts, but she comes with courage and understanding. From this day forward, if there is to be more killing, it will not start with me. Release him.","My daughter speaks with wisdom beyond her years. We have all come here with anger in our hearts, but she comes with courage and understanding. From this day forward, if there is to be more killing, it will not start with me. Release him."
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Now’s our chance, fire!","Now’s our chance, fire!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,What?,What?
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"It’s a trick, don’t you see? Fire! Fine, I’ll settle this myself.","It is a trick, do not you see? Fire! Fine, I will settle this myself."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,No! [Jumps in the way.],No!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,He stepped right – right into it! It’s his own fault!,He stepped right – right into it! It is his own fault!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,"Traitors! Unhand me, I say, how dare you!","Traitors! Unhand me, I say, how dare you!"
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,I’ll see you all hanged for this!,I will see you all hanged for this!
+Pocahontas,Ratcliffe,Male,Caucasian,English,Antagonist,False,False,(muffled) How dare you! Untie me at once! I’ll have your head for this!,How dare you! Untie me at once! I will have your head for this!
+Pocahontas,Wiggins,Male,Caucasian,English,Supporting,False,False,And he came so highly recommended.,And he came so highly recommended.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"No, not yet. She said she’d be here.","No, not yet. She said she would be here."
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,Here. It’s from Grandmother Willow’s bark. It’ll help with the pain.,Here. It is from Grandmother Willow’s bark. It will help with the pain.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"What pain? I’ve had worse pain than this. Can’t think of any right now, but…","What pain? I have had worse pain than this. Cannot think of any right now, but..."
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,"You are always welcome among our people. Thank you, my brother.","You are always welcome among our people. Thank you, my brother."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,[To Flit.] I thought you didn’t like strangers.,I thought you did not like strangers.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,My mother’s necklace.,My mother’s necklace.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,"See ya, Percy. [To Pocahontas.] Come with me?","See ya, Percy.  Come with me?"
+Pocahontas,Powhatan,Male,Native American,Powhatan,Supporting,True,True,You must choose your own path.,You must choose your own path.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,I’m needed here.,I am needed here.
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,Then I’ll stay with you.,Then I will stay with you.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"No, you have to go back.","No, you have to go back."
+Pocahontas,John Smith,Male,Caucasian,English,Protagonist,False,False,But I can’t leave you.,But I cannot leave you.
+Pocahontas,Pocahontas,Female,Native American,Powhatan,Protagonist,True,True,"You never will. No matter what happens, I’ll always be with you. Forever.","You never will. No matter what happens, I will always be with you. Forever."

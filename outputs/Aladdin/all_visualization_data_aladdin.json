@@ -1,0 +1,70 @@
+{
+    "Distribution_of_Sentiment_Categories": {
+        "Positive": 250,
+        "Neutral": 420,
+        "Negative": 220
+    },
+    "Average_Sentiment_by_Character_Role": {
+        "Antagonist": 0.2,
+        "Protagonist": 0.25,
+        "Supporting": 0.23
+    },
+    "Sentiment_Distribution_for_Antagonists": {
+        "Positive": 37.1,
+        "Neutral": 42.3,
+        "Negative": 20.6
+    },
+    "Sentiment_Distribution_for_Protagonists": {
+        "Positive": 37.7,
+        "Neutral": 43.9,
+        "Negative": 18.4
+    },
+    "Sentiment_Distribution_for_Supporting": {
+        "Positive": 37.3,
+        "Neutral": 43.8,
+        "Negative": 18.9
+    },
+    "Sentiment_Distribution_for_Marginalized_Characters": {
+        "Positive": 37.7,
+        "Neutral": 43.9,
+        "Negative": 18.4
+    },
+    "Sentiment_Distribution_for_Non_Marginalized_Characters": {
+        "Positive": 37.2,
+        "Neutral": 43.3,
+        "Negative": 19.5
+    },
+    "Sentiment_Distribution_by_Character_Role_and_Marginalized_Status": {
+        "(Antagonist, False)": {
+            "Positive": 30,
+            "Neutral": 60,
+            "Negative": 20
+        },
+        "(Protagonist, True)": {
+            "Positive": 150,
+            "Neutral": 200,
+            "Negative": 50
+        },
+        "(Supporting, False)": {
+            "Positive": 100,
+            "Neutral": 120,
+            "Negative": 40
+        }
+    },
+    "Dialogue_Distribution_by_Gender": {
+        "Male": 480,
+        "Female": 120
+    },
+    "Sentiment_Distribution_by_Gender": {
+        "Male": {
+            "Positive": 200,
+            "Neutral": 210,
+            "Negative": 90
+        },
+        "Female": {
+            "Positive": 50,
+            "Neutral": 60,
+            "Negative": 30
+        }
+    }
+}
